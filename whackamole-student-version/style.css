@@ -1,0 +1,32 @@
+/* Don't worry about this code! It's just for the formatting */
+
+* {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	background-color: darkgreen;
+}
+
+#title {
+	background-color: #EEE;
+	margin: 10px 10px 0px 10px;
+}
+
+#navbar{
+	height: auto;
+	background-color: #EEE;
+	justify-content: space-evenly;
+	display: flex;
+}
+
+#score {
+	background-color: #EEE;
+	margin: 10px 10px 10px 0px;
+	text-align: right;
+}
+
+#time {
+	background-color: #EEE;
+	margin: 10px 10px 0px 0px;
+	text-align: center;
+}
