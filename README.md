@@ -36,7 +36,7 @@ Here's a few quick tips to make your meeting more engaging in general:
 ### Resources
 
 *   [Starter Code](https://replit.com/@sohamb117/Whackamole-Student-Version) - Provide this to club members as a starting point for their own work
-*   [Code Demos](https://replit.com/@sohamb117/Whackamole-Demos) - These are the demos you'll want club members to use as reference
+*   [Code Demos](https://hackclub.github.io/clicker-game-examples/) - These are the demos you'll want club members to use as reference
 *   [Example Project](https://Whackamole-Demo.sohamb117.repl.co) - Showcase this as an example of what we're trying to build
 *   [Slideshow](https://docs.google.com/presentation/d/1mIrJrn6sq5_YU783oAVGvebbA-M40NbeuFTb1qDJO3g/edit?usp=sharing) - Feel free to use this or customize for your own club
 *   [Resources Page](https://Whackamole-Package.sohamb117.repl.co) - Give this to club members, since it has everything they'll need 
